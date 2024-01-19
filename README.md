@@ -27,3 +27,9 @@
 | Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/GULP-gulp?style=flat&logo=gulp&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/NPM-npm?style=flat&logo=npm&logoColor=white&color=%231b1b7d) |
 | Ссылка на проект: | https://niknov80.github.io/fitness20/ |
 | Исходный код: | https://github.com/niknov80/fitness20 |
+| 3 | <img src="https://github.com/niknov80/niknov80/blob/main/keksogram.jpg" width="400"/> |
+| Название проекта: | Cервис просмотра изображений |
+| Описание проекта: | Кекстаграм — сервис просмотра изображений. Пользователям предоставлена возможность загружать свои фотографии или просматривать фотографии, загруженные ранее другими пользователями. Проект выполнен на чистом JavaScript. Данные запрашиваются со стороннего сервера |
+| Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) |
+| Ссылка на проект: | https://niknov80.github.io/1017857-kekstagram-28/ |
+| Исходный код: | https://github.com/niknov80/1017857-kekstagram-28 |
