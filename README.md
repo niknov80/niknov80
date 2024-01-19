@@ -33,3 +33,21 @@
 | Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) |
 | Ссылка на проект: | https://niknov80.github.io/1017857-kekstagram-28/ |
 | Исходный код: | https://github.com/niknov80/1017857-kekstagram-28 |
+| 4 | <img src="https://github.com/niknov80/niknov80/blob/main/mishka.jpg" width="400"/> |
+| Название проекта: | Интернет-магазин игрушек ручной работы. |
+| Описание проекта: | Главная страница, страница каталога и форма заказа интернет-магазина. Используется адаптивная верстка, графика адаптирована под разные разрешения экрана и оптимизирована для Retina-экранов. |
+| Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) |
+| Ссылка на проект: | https://niknov80.github.io/1017857-mishka-27/ |
+| Исходный код: | https://github.com/niknov80/1017857-mishka-27 |
+| 5 | <img src="https://github.com/niknov80/niknov80/blob/main/glassy.jpg" width="400"/> |
+| Название проекта: | Интернет-магазин мороженого |
+| Описание проекта: | Верстка под фиксированную ширину экрана, без использования каких-либо препроцессоров. |
+| Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) |
+| Ссылка на проект: | https://niknov80.github.io/1017857-mishka-27/ |
+| Исходный код: | https://github.com/niknov80/1017857-mishka-27 |
+| 6 | <img src="https://github.com/niknov80/niknov80/blob/main/device.jpg" width="400"/> |
+| Название проекта: | Интернет-магазин гаджетов |
+| Описание проекта: | Верстка под фиксированную ширину экрана, без использования каких-либо препроцессоров.  |
+| Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) |
+| Ссылка на проект: | https://niknov80.github.io/1017857-device-35/ |
+| Исходный код: | https://github.com/niknov80/1017857-device-35 |
