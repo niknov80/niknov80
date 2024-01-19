@@ -21,3 +21,9 @@
 | Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/GULP-gulp?style=flat&logo=gulp&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/NPM-npm?style=flat&logo=npm&logoColor=white&color=%231b1b7d) |
 | Ссылка на проект: | https://niknov80.github.io/drink2go/ |
 | Исходный код: | https://github.com/niknov80/drink2go |
+| 2 | <img src="https://github.com/niknov80/niknov80/blob/main/fitness.jpg" width="400"/> |
+| Название проекта: | Фитнес центр "Supergym" |
+| Описание проекта: | Landing page фитнесс центра. Используется адаптивная и резиновая верстка, графика адаптирована под разные разрешения экрана и оптимизирована для Retina-экранов. В разделе FAQ применяется аккордион, а слйдерs реализованs на swiper js.  |
+| Применяемые технологии и инструменты: | ![Static Badge](https://img.shields.io/badge/HTML5-html5?style=flat&logo=html5&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/SCSS-scss?style=flat&logo=scss&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/GULP-gulp?style=flat&logo=gulp&logoColor=white&color=%231b1b7d) ![Static Badge](https://img.shields.io/badge/NPM-npm?style=flat&logo=npm&logoColor=white&color=%231b1b7d) |
+| Ссылка на проект: | https://niknov80.github.io/fitness20/ |
+| Исходный код: | https://github.com/niknov80/fitness20 |
